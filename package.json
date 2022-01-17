@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "riteway": "^6.3.1"
+  }
+}
